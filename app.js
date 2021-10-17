@@ -35,7 +35,7 @@ console.log("Path : " + q.pathname);
 console.log("QueryParams : " + q.search);
 console.log("Protocol : " + q.protocol);
 
-console.log("Sum of 10 and 20 is : " + sum(10, 20));
+console.log("Sum of 30 and 40 is : " + sum(30, 40));
 
 
 
